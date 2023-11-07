@@ -8,14 +8,19 @@ In this project, we would be combining multiple services and open-source tools t
 **OBJECTIVES**
 
 User starts the conservation with the Chatbot.
+
 Emotional Analysis of the conversation is done using the IBM Tone Analyzer API.
+
 Get the reply to the conservation from the Chatbot.
+
 Based on the Emotion which the app perceives ,top songs are retrieved using Last.fm songs API.
+
 Vibe along with the songs!
 
 **Built With**
 
 Emotional Analysis - **IBM Tone Analyzer API**
+
 Songs Recommendation - **Last.fm songs API**
 
 **Usage**
@@ -29,5 +34,7 @@ We can use it to swing our mood/emotion. We can also enhance this project for fu
 **Acknowledgements**
 
 CRIO PROJECTS
+
 IBM
+
 LAST.FM SONGS
